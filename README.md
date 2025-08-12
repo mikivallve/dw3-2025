@@ -2,10 +2,11 @@
 
 ## [Intro](https://dw3.netlify.app)
 
-- Intro a la materia
-- Roles Profesionales en el desarrollo Web/Apps
-- Planificación del Semestre
-- Expectativas
+- Presentación del curso, el profesor y las expectativas.
+- Discusión sobre los diferentes roles profesionales en el desarrollo web y de aplicaciones (front-end, back-end, UI/UX, diseñador digital, etc.).
+- Revisión del plan de estudios, las entregas y la metodología del semestre.
+- Creación de las cuentas y perfiles necesarios para el curso (GitHub, Slack, Netlify, VS Code, Pantheon).
+- **Objetivo**: Establecer un marco claro para el semestre y asegurar que todos los estudiantes tengan las herramientas básicas configuradas desde el primer día.
 
 ### <span id="prueba-de-nivel">Tarea</span>
 
