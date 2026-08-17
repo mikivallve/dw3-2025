@@ -1,4 +1,4 @@
-# Diseño Web 3 - 2025
+# Diseño Web 3 - 2026
 
 ## [Intro](https://dw3.netlify.app)
 
